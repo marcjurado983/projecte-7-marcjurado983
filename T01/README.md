@@ -1,88 +1,118 @@
-## T01: Coneixent la competència i el sector
 
 
-Heu muntat la vostra pròpia empresa de serveis informàtics a Mataró. Tot just esteu arrencant la vostra activitat professional de forma independent i us acaba d'entrar el primer gran client potencial: FoodLogístic S.A., una empresa de logística alimentària ubicada al Polígon de les Hortes del Camí Ral.
+# T01 · Coneixent la Competència i el Sector
 
-Necessiten una renovació a fons de la seva infraestructura tecnològica i, per la vostra empresa, és una gran oportunitat per assegurar un client a llarg termini. Però compte: no sou els únics a la ciutat. Haureu de presentar una proposta competitiva que convenci l’equip directiu de FoodLogístic, i per fer-ho primer heu d’entendre com funciona el sector i qui és la vostra competència.
+## 📌 Introducció
 
-#️⃣ Descripció de l’activitat
-## Fase 1: Coneixent el terreny i la competència
-Abans de pressupostar i valorar el preu de la vostra hora de feina, heu de saber on esteu i com s'organitzen les empreses del sector.
+Acabeu de crear la vostra pròpia empresa de serveis informàtics a **Mataró** i, tot just començar, rebeu el vostre primer gran client potencial: **FoodLogístic S.A.**, una empresa de logística alimentària situada al Polígon de les Hortes del Camí Ral.
 
-### 1. Recerca de mercat
-Identifiqueu almenys 3 empreses de serveis informàtics reals que operin a Mataró o rodalies (Maresme).
-Classifiqueu-les segons:
+FoodLogístic necessita una renovació completa de la seva infraestructura tecnològica. Per a vosaltres, és una oportunitat clau per aconseguir un client estable a llarg termini. Però no esteu sols: hi ha competència directa a la ciutat i al Maresme. Per presentar una proposta sòlida i competitiva, primer cal entendre **el sector** i **els competidors**.
 
-Mida: microempresa, PIME, etc.
+---
 
-Serveis: manteniment, xarxes, software, ciberseguretat, etc.
+## 🧭 Descripció de l’activitat
 
-### 2. L'organigrama
-Trieu una de les empreses de la competència (o feu una mitjana tipus) i dibuixeu-ne l’estructura organitzativa.
+L’activitat es divideix en dues fases principals.
 
-Eines obligatòries
-PlantUML → per generar el diagrama a partir de codi
+---
 
-UMLTree → per estructurar jerarquies de forma clara
+# 🟦 Fase 1: Coneixent el Terreny i la Competència
 
-Ús d’IA (recomanat)
+## 🔍 1. Recerca de mercat
+
+Cal identificar **almenys 3 empreses reals** de serveis informàtics que operin a:
+
+- Mataró  
+- O rodalies (Maresme)
+
+Per cadascuna, s’ha de classificar:
+
+- **Mida:** microempresa, PIME…  
+- **Serveis que ofereixen:** manteniment, xarxes, desenvolupament de software, ciberseguretat, etc.
+
+---
+
+## 🗂️ 2. Organigrama de la competència
+
+Trieu una de les empreses identificades (o feu una mitjana representativa) i genereu el seu **organigrama**.
+
+### Eines obligatòries
+
+- **PlantUML** → per generar el diagrama a partir de codi  
+- **UMLTree** → per estructurar jerarquies de manera clara  
+
+### Ús d’IA (opcional però recomanat)
+
 Podeu utilitzar IA per:
 
-Generar el codi en PlantUML
+- Generar codi PlantUML  
+- Convertir estructures en diagrames  
+- Millorar l’organització del model  
 
-Convertir una estructura en diagrama
+⚠️ **Important:**  
+Heu d’entendre el codi generat. L’organigrama ha de tenir sentit i coherència.
 
-Millorar l’organització del model
+---
 
-⚠️ Important:  
-Heu d’entendre el codi generat.
-L’organigrama ha de tenir sentit (no copiar sense criteri).
+## 🧩 3. Radiografia de departaments
 
-### 3. Radiografia de departaments
 Definiu quins departaments té (o hauria de tenir) aquesta empresa tipus i descriviu breument les funcions de cadascun.
 
+Exemples habituals:
+
+- **Sistemes**  
+- **Suport / Helpdesk**  
+- **Comercial**  
+- **Administració**  
+- **Projectes / Consultoria**  
+- **Desenvolupament** (si escau)
+
+---
+
+# 🟦 Fase 2: Estratègia
+
+## 🎯 1. Definició de la proposta de valor
+
+Cal establir quina serà la vostra estratègia per destacar davant la competència.
+
 Exemples:
 
-Sistemes
+- Proximitat i resposta ràpida  
+- Servei 24/7  
+- Preus competitius  
+- Especialització en un àmbit concret  
+- Tracte personalitzat  
 
-Suport / Helpdesk
+---
 
-Comercial
+## 👥 2. Recursos necessaris
 
-Administració
+Feu una llista dels **recursos humans** necessaris per donar servei a FoodLogístic:
 
-## Fase 2: Estratègia
-### 4. Definició de l’estratègia
-Cal que penseu quina serà la vostra proposta de valor per assegurar-vos ser els escollits davant la competència.
+- Sou suficients amb l’equip actual?  
+- Caldrà contractar personal addicional?  
+- Quins perfils serien necessaris?  
 
-Exemples:
+---
 
-Proximitat
+# 📤 Què cal lliurar
 
-Servei 24/7
+Cada membre del grup ha de penjar al seu repositori:
 
-Preu competitiu
+### ✔️ Un **document conjunt** amb:
 
-Especialització
+- El desenvolupament complet de la **Fase 1**  
+- El desenvolupament complet de la **Fase 2**  
+- Propostes **raonades i justificades**  
+- Diagrama PlantUML inclòs (en codi i/o imatge generada)
 
-Temps de resposta curt
+---
 
-### 5. Recursos necessaris
-Feu una llista dels recursos humans que necessitareu per donar servei a aquest client.
+Si vols, puc ajudar-te a:
 
-Preguntes clau:
+- Crear una **plantilla completa** per omplir la T01  
+- Generar el codi PlantUML del teu organigrama  
+- Redactar la proposta de valor de manera professional  
+- Fer una comparativa real d’empreses del Maresme
 
-Sou suficients amb l’equip actual?
-
-Us caldrà contractar més personal?
-
-Quin perfil necessitaríeu?
-
-#️⃣ Què cal lliurar
-Heu de lliurar un document conjunt, penjat al repositori de cada membre del grup, amb el desenvolupament complet de:
-
-Fase 1 (recerca, organigrama, departaments)
-
-Fase 2 (estratègia i recursos)
-
-És imprescindible que les propostes siguin raonades i justificades.
+Només digues què vols fer primer.

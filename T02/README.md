@@ -1,88 +1,83 @@
-## T02: Creant la proposta de pàgina corporativa 
-Una de les primeres inquietuds que ha expressat FoodLogistic S.A. és que la seva presència a Internet necessita una millora urgent.
-La seva pàgina web actual està:
 
-Estèticament desactualitzada
+---
 
-Tècnicament obsoleta
+# T02 · Proposta de Pàgina Corporativa per a FoodLogistic S.A.
 
-No compleix la normativa vigent (LOPDGDD i LSSI-CE)
+## 📌 Introducció al cas
 
-Per aquest motiu, ens demanen una proposta de renovació completa, però abans volen veure una prova funcional real.
-Això implica que haurem de publicar la web en un servidor públic per mostrar com quedarà la seva nova identitat digital.
+FoodLogistic S.A. ha expressat la necessitat de millorar la seva presència digital. L’actual pàgina web presenta problemes importants:
 
-En aquesta activitat posarem en pràctica la guia de desplegament per assolir tres objectius clau:
+- Estètica i tecnologia desactualitzades  
+- Incompliment de la normativa vigent (LOPDGDD i LSSI-CE)
 
-#️⃣ Objectius de l’activitat
-✔ 1. Publicació Professional
-Utilitzar GitHub Pages per convertir el codi en una web operativa sota una URL pública.
+Per aquest motiu, l’empresa sol·licita una **proposta de nova identitat digital**, però també una **prova funcional** publicada en un servidor real. Aquesta activitat consisteix a desplegar aquesta prova utilitzant GitHub Pages i documentar tot el procés.
 
-✔ 2. Documentació del Projecte
-Crear un README.md professional que serveixi com a carta de presentació del projecte, de l’empresa i del seu autor.
+---
 
-✔ 3. Control i Analítica
-Integrar una eina de monitorització com StatCounter per saber:
+## 🎯 Objectius de l’activitat
 
-Qui visita la web
+### 1. Publicació Professional
+Convertir el projecte web en una pàgina operativa mitjançant **GitHub Pages**, accessible públicament.
 
-Des d’on
+### 2. Documentació del Projecte
+Crear un **README.md professional** que presenti:
 
-Amb quin dispositiu
+- La vostra empresa o identitat professional  
+- L’autor del projecte  
+- El context i la finalitat del desenvolupament  
 
-Quines pàgines consulta
+### 3. Control i Analítica
+Integrar una eina d’analítica web, com **StatCounter**, per monitoritzar:
 
-No es pot millorar el que no es mesura.
+- Nombre de visites  
+- Origen dels usuaris  
+- Comportament dins la web  
 
-#️⃣ Punts clau del projecte
-🔹 1. Crear un repositori al GitHub personal
-El repositori ha d’estar correctament documentat amb un README.md complet i professional.
+---
 
-🔹 2. Estructura obligatòria per GitHub Pages
-GitHub Pages requereix:
+## 🧩 Punts clau del desenvolupament
 
-Codi
-/docs
-   index.html
-   styles.css
-   /images
-El fitxer index.html ha de ser la pàgina principal.
+- Crear un repositori al GitHub personal amb documentació adequada.
+- Utilitzar l’estructura requerida per GitHub Pages:
+  - Carpeta `/docs`
+  - Fitxer `index.html` i la resta d’elements de la web dins aquesta carpeta.
+- Configurar la branca `main` com a branca de desplegament.
+- Treballar en local i pujar només versions estables.
+- Implementar un **comptador invisible** amb StatCounter.
 
-🔹 3. Configurar la branca principal
-La branca main ha de ser la que desplega la web automàticament.
+---
 
-És important treballar en local i només fer push quan hi hagi una versió estable.
+## 📚 Materials i enllaços de suport
 
-🔹 4. Integrar StatCounter
-Cal implementar un comptador invisible per obtenir mètriques reals de visites.
+- **Guia de l’activitat:**  
+  https://github.com/SMX2n/Projecte7-GitHubPages
 
-#️⃣ Materials i enllaços de suport
-Guia de l’activitat:
-👉 https://github.com/SMX2n/Projecte7-GitHubPages
+- **Document amb les dades de FoodLogistic S.A.**  
+  (Proporcionat pel professorat)
 
-Document amb les dades de FoodLogistic S.A.
+---
 
-#️⃣ Què cal lliurar
-Dins del repositori del projecte, cal crear una carpeta:
+## 📤 Què cal lliurar
 
-Codi
-/T02
-   README.md
-Aquest README ha d’incloure:
+Dins del repositori del projecte, cal crear la carpeta **`T02/`** i incloure-hi:
 
-✔ 1. Breu descripció del projecte
-Objectiu
+### ✔️ `README.md` amb:
 
-Tecnologies utilitzades
+#### 1. Breu descripció del projecte
+- Objectiu de la proposta  
+- Tecnologies utilitzades  
+- Enfocament del desplegament  
 
-Explicació del desplegament
+#### 2. Solució realitzada
+Incloent:
 
-✔ 2. Solució realitzada
-Enllaç al repositori personal
+- 🔗 Enllaç al repositori personal  
+- 🌐 URL pública de GitHub Pages  
+- 🖼️ Captures de pantalla del funcionament  
+- 📊 Explicació de les mètriques obtingudes amb StatCounter  
 
-URL pública de la web (GitHub Pages)
+> Activitat individual, tot i que posteriorment es triarà una solució conjunta.
 
-Captures de pantalla
+---
 
-Explicació de les mètriques de StatCounter
-
-Activitat individual, però més endavant s’haurà d’escollir una solució conjunta.
+Si vols, puc ajudar-te a **crear el README final personalitzat**, generar una **plantilla editable**, o fins i tot redactar la part de presentació de la teva “empresa” perquè quedi més professional.
