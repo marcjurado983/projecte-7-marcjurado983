@@ -1,4 +1,4 @@
-#️⃣ Introducció al cas
+## T02: Creant la proposta de pàgina corporativa 
 Una de les primeres inquietuds que ha expressat FoodLogistic S.A. és que la seva presència a Internet necessita una millora urgent.
 La seva pàgina web actual està:
 
