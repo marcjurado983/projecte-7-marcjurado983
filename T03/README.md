@@ -1,4 +1,4 @@
-Aquí tens el teu text completament passat a **format README.md**, polit, estructurat i llest per enganxar directament al teu GitHub. He mantingut el to formal i docent, però amb una presentació clara i pròpia d’un projecte tècnic.
+
 
 ---
 
