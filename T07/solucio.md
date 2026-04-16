@@ -2,3 +2,5 @@
 
 
 # Aquest es el nostre document de informació que hem extret
+
+https://docs.google.com/document/d/1ueGa4SKJI-IwX7VvX5eSvm-yuBZyNHwhdXBx7sOp51Q/edit?usp=sharing
