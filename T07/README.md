@@ -5,6 +5,8 @@
 # T07 · Migrant al Cloud  
 ### Proposta de Correu Corporatiu per a FoodLogistic S.A.
 
+[aqui esta la tasca](./solucio.md)
+
 ## 📌 Introducció al cas
 
 FoodLogistic S.A., amb una plantilla de **35 treballadors**, necessita modernitzar el seu sistema de comunicació interna. Actualment utilitzen un servei de correu electrònic externalitzat i antiquat, amb problemes de seguretat i sense eines col·laboratives modernes.
