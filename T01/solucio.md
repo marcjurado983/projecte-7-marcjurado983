@@ -1,6 +1,7 @@
 # T01: Coneixent la competència i el sector**
 
-![][image1]
+![coneixent](img/img.png.png)
+
 MARC JURADO I MARTI CODONY
 
 # Fase 1 Coneixent el terreny i la competència**
