@@ -12,17 +12,17 @@ tres empreses reals de serveis informàtics que operen a Mataró i rodalies
 
 1.informático Mataró  
 
-**Mida:** Microempresa
+Mida: Microempresa
 
-**Serveis:** Reparació d’ordinadors, manteniment informàtic, suport a domicili, xarxes, servidors, seguretat, backup, monitorització.
+Serveis: Reparació d’ordinadors, manteniment informàtic, suport a domicili, xarxes, servidors, seguretat, backup, monitorització.
 
 [https://www.informaticomataro.com/?utm\_source=copilot.com](https://www.informaticomataro.com/?utm_source=copilot.com)
 
 2.Sisticat (Tecnologia i Desenvolupament de Sistemes SL)
 
-**Mida:** PIME
+Mida: PIME
 
-**Serveis:** Servei tècnic per empreses, hosting, dominis, correu, xarxes, servidors, 
+Serveis: Servei tècnic per empreses, hosting, dominis, correu, xarxes, servidors, 
 
 [Sisticat – Serveis tecnològics a Mataró, Maresme i Barcelonahttps://](https://sisticat.cat/?utm_source=copilot.com)[sisticat.cat/](http://sisticat.cat/)
 
