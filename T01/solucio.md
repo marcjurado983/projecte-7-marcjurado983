@@ -1,9 +1,10 @@
 # T01: Coneixent la competència i el sector**
 
-![][image1]
+![coneixent](img/img.png.png)
+
 MARC JURADO I MARTI CODONY
 
-# Fase 1 Coneixent el terreny i la competència**
+# Fase 1 Coneixent el terreny i la competència
 
 1\. Recerca de mercat (3 empreses reals del Maresme)
 
@@ -11,17 +12,17 @@ tres empreses reals de serveis informàtics que operen a Mataró i rodalies
 
 1.informático Mataró  
 
-**Mida:** Microempresa
+Mida: Microempresa
 
-**Serveis:** Reparació d’ordinadors, manteniment informàtic, suport a domicili, xarxes, servidors, seguretat, backup, monitorització.
+Serveis: Reparació d’ordinadors, manteniment informàtic, suport a domicili, xarxes, servidors, seguretat, backup, monitorització.
 
 [https://www.informaticomataro.com/?utm\_source=copilot.com](https://www.informaticomataro.com/?utm_source=copilot.com)
 
 2.Sisticat (Tecnologia i Desenvolupament de Sistemes SL)
 
-**Mida:** PIME
+Mida: PIME
 
-**Serveis:** Servei tècnic per empreses, hosting, dominis, correu, xarxes, servidors, 
+Serveis: Servei tècnic per empreses, hosting, dominis, correu, xarxes, servidors, 
 
 [Sisticat – Serveis tecnològics a Mataró, Maresme i Barcelonahttps://](https://sisticat.cat/?utm_source=copilot.com)[sisticat.cat/](http://sisticat.cat/)
 
@@ -97,7 +98,7 @@ I finalment la administració amb facturació i comptabilitat, recursos humans R
 
 # FASE 2 — Estratègia
 
-1\. Proposta de valor (diferenciació)**
+1\. Proposta de valor (diferenciació)
 
 la nostra empresa volem que destaci
 
@@ -110,7 +111,7 @@ amb la nostra proposta de valor que donem
 
 avui en dia per donar competitivitat al maresme el millor es proximitat, confiança i rapidesa
 
-2\. Recursos humans necessaris**
+2\. Recursos humans necessaris
 
 Si som una empresa per donar un servei basic per poder competir amb PIME el el sector el millor equip recomenat nostre és
 
