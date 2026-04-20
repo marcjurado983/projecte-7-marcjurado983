@@ -9,7 +9,7 @@ https://docs.google.com/document/d/12G_z7CdMoHAYyS0_FCpsvT-_fBrfIzyLES7gT6UGTbM/
 ## 🎬 GUIÓ VÍDEO 1: "Compliment legal en el dia a dia a FoodLogistic" (General)
 
 ### ⏱️ 0:00
-Hola companys! Ací Arnau, de seguretat informàtica.  
+Hola companys! de seguretat informàtica.  
 Tots som guardians de les dades  
 
 **Rètols:**  
