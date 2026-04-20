@@ -1,7 +1,6 @@
 
 
 ---
-
 # T05 · Vídeo Formatiu LOPD per a Empleats  
 ### Campanya interna: *Dades Segures, Logística Eficient*
 
