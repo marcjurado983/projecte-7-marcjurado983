@@ -4,7 +4,7 @@
 
 MARC JURADO I MARTI CODONY
 
-# Fase 1 Coneixent el terreny i la competència**
+# Fase 1 Coneixent el terreny i la competència
 
 1\. Recerca de mercat (3 empreses reals del Maresme)
 
@@ -98,7 +98,7 @@ I finalment la administració amb facturació i comptabilitat, recursos humans R
 
 # FASE 2 — Estratègia
 
-1\. Proposta de valor (diferenciació)**
+1\. Proposta de valor (diferenciació)
 
 la nostra empresa volem que destaci
 
@@ -111,7 +111,7 @@ amb la nostra proposta de valor que donem
 
 avui en dia per donar competitivitat al maresme el millor es proximitat, confiança i rapidesa
 
-2\. Recursos humans necessaris**
+2\. Recursos humans necessaris
 
 Si som una empresa per donar un servei basic per poder competir amb PIME el el sector el millor equip recomenat nostre és
 
