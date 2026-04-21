@@ -135,11 +135,5 @@ Cal produir **dos vídeos formatius**, cadascun amb un públic i contingut espec
 
 ---
 
-Si vols, puc ajudar-te a:
 
-- Crear **plantilles de guió** per als dos vídeos  
-- Redactar els guions complets amb estructura professional  
-- Proposar estils visuals, rètols i esquemes per fer els vídeos més clars  
-- Fer un resum de la normativa aplicable per assegurar que no se us escapa res
 
-Només digues què vols preparar primer.
