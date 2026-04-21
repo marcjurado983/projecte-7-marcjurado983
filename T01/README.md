@@ -2,6 +2,8 @@
 
 # T01 · Coneixent la Competència i el Sector
 
+[solucio de la tasca](solucio.md)
+
 ## 📌 Introducció
 
 Acabeu de crear la vostra pròpia empresa de serveis informàtics a **Mataró** i, tot just començar, rebeu el vostre primer gran client potencial: **FoodLogístic S.A.**, una empresa de logística alimentària situada al Polígon de les Hortes del Camí Ral.

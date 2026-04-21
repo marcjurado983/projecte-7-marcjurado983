@@ -3,6 +3,8 @@
 
 # T02 · Proposta de Pàgina Corporativa per a FoodLogistic S.A.
 
+[solucio de la tasca](solucio.md)
+
 ## 📌 Introducció al cas
 
 FoodLogistic S.A. ha expressat la necessitat de millorar la seva presència digital. L’actual pàgina web presenta problemes importants:

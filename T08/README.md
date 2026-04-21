@@ -4,6 +4,8 @@
 # T08 · Tria de la Web Definitiva  
 ### Procés de consens i selecció de la proposta final per a FoodLogístic S.A.
 
+[solucio de la tasca](solucio.md)
+
 ## 📌 Introducció
 
 Arribem a una de les fases més rellevants del projecte: **la selecció de la web corporativa definitiva** que l’empresa presentarà al client FoodLogístic S.A.

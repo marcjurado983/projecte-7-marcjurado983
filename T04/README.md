@@ -4,6 +4,8 @@
 
 # T04 · Servidor d’Impressió amb Printer Pooling
 
+[solucio de la tasca](solucio.md)
+
 ## 📌 Introducció
 
 En el sector logístic, la impressió continua sent un element crític: albarans, fulls de transport i documentació operativa han d’estar disponibles de manera immediata. FoodLogístic S.A. no és una excepció.

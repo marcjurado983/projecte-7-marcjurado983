@@ -4,6 +4,10 @@
 # T05 · Vídeo Formatiu LOPD per a Empleats  
 ### Campanya interna: *Dades Segures, Logística Eficient*
 
+
+[Si vols veure les guies](guies.md)
+[Si vols veure els videos](videos.md)
+
 ## 📌 Introducció al cas
 
 FoodLogistic S.A. ha iniciat una campanya interna de sensibilització sobre protecció de dades amb l’objectiu de garantir que tots els treballadors —des del personal de magatzem fins als responsables de Recursos Humans— entenguin clarament **què poden i què no poden fer** amb les dades personals en el seu dia a dia.

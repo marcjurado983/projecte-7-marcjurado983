@@ -4,6 +4,8 @@
 
 # T03 — Servidor de Fitxers
 
+[solucio de la tasca](solucio.md)
+
 ## 📌 Introducció
 Quan el volum de negoci creix, també ho fa el volum de dades, i sovint això comporta problemes d’organització i visibilitat. FoodLogistic no n’ha estat una excepció: cada departament guardava la documentació de forma local, dificultant la gestió centralitzada.
 

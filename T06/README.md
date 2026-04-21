@@ -5,6 +5,8 @@
 # T06 · Operació Escut Digital  
 ### Adaptant la web de FoodLogístic S.A. al compliment legal 100%
 
+[solucio de la tasca](solucio.md)
+
 ## 📌 Introducció al cas
 
 En l’activitat **T02** vas crear la proposta de pàgina corporativa per a FoodLogístic S.A. Ara toca fer un pas imprescindible: **adaptar la web a la normativa legal vigent** en matèria de protecció de dades i serveis de la societat de la informació.

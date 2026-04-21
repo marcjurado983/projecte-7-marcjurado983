@@ -5,7 +5,7 @@
 # T07 · Migrant al Cloud  
 ### Proposta de Correu Corporatiu per a FoodLogistic S.A.
 
-[aqui esta la tasca](./solucio.md)
+[solucio de la tasca](solucio.md)
 
 ## 📌 Introducció al cas
 
