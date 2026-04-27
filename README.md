@@ -5,23 +5,28 @@
 
 # TASQUES I PRODUCTES
 
-| Tasques                                                       | Productes                                                   |
-|---------------------------------------------------------------|-------------------------------------------------------------|
-| 📁 [T00](./tasques/T00)                                       | 📦 [P01](./productes/P01)                                   |
-| 📁 [T01](./tasques/T01)                                       | 📦 [P02](./productes/P02)                                   |
-| 📁 [T02](./tasques/T02)                                       | 📦 [P03](./productes/P03)                                   |
-| 📁 [T03](./tasques/T03)                                       |                                                             |
-| 📁 [T04](./tasques/T04)                                       |                                                             |
-| 📁 [T05](./tasques/T05)                                       |                                                             |
-| 📁 [T06](./tasques/T06)                                       |                                                             |
-| 📁 [T07](./tasques/T07)                                       |                                                             |
-| 📁 [T08](./tasques/T08)                                       |                                                             |
-| 📁 [T09](./tasques/T09)                                       |                                                             |
-| 📁 [T10](./tasques/T10)                                       |                                                             |
-| 📁 [T11](./tasques/T11)                                       |                                                             |
-| 📁 [T12](./tasques/T12)                                       |                                                             |
-| 📁 [T13](./tasques/T13)                                       |                                                             |
+Tasques                                                                                     
+|---------------------------
+| 📁 [T01](./T01/README.md)                                       |
+| 📁 [T02](./T02/README.md)                                       |
+| 📁 [T03](./T03/README.md)                                       |                                                             
+| 📁 [T04](./T04/README.md)                                       |                                                             
+| 📁 [T05](./T05/README.md)                                       |                                                             
+| 📁 [T06](./T06/README.md)                                       |                                                             
+| 📁 [T07](./T07/README.md)                                       |                                                             
+| 📁 [T08](./T08/README.md)                                       |                                                             
+| 📁 [T09](./T09/README.md)                                       |                                                             
+| 📁 [T10](./T10/README.md)                                       |                                                             
+| 📁 [T11](./T11/README.md)                                       |                                                             
+| 📁 [T12](./T12/README.md)                                       |                                                             
+| 📁 [T13](./T13/README.md)                                       |
 
+
+   Productes                                                                                        
+|---------------------------
+📦 [P01](./PRODUCTES_FINALS/P01)  |
+📦 [P02](./PRODUCTES_FINALS/P02)  |
+📦 [P03](./PRODUCTES_FINALS/P03)  |
 
 ![Logo del projecte FoodLogistic](pics/FoodLogisticLogo.png)
 
