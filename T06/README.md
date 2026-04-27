@@ -1,7 +1,5 @@
 
-
 ---
-
 # T06 · Operació Escut Digital  
 ### Adaptant la web de FoodLogístic S.A. al compliment legal 100%
 
