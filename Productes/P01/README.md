@@ -210,32 +210,32 @@ Estructura de carpetes i permisos:
 ---
 
 
-![](/images/imatge2.png)
+![](/Productes/P01/images/imatge2.png)
 
 ---
 
-![](/images/imatge3.png)
+![](/Productes/P01/images/imatge3.png)
 
 ---
 
-![](/images/imatge4.png)
+![](/Productes/P01/images/imatge4.png)
 
 ---
 
-![](/images/imatge5.png)
+![](/Productes/P01/images/imatge5.png)
 
 ---
 
 
-![](/images/imatge6.png)
+![](/Productes/P01/images/imatge6.png)
 
 ---
 
-![](/images/imatge7.png)
+![](/Productes/P01/images/imatge7.png)
 
 ---
 
-![](/images/imatge40.png)
+![](/Productes/P01/images/imatge40.png)
 
 ### 3.1 Infraestructura (relatiu a la T01)
 
@@ -282,11 +282,11 @@ Canviar el correu antic per un de nou al núvol.
 
 Quines opcions hem mirat?
 
-![](/images/imatge8.png)
+![](/Productes/P01/images/imatge8.png)
 
 ---
 
-![](/images/imatge9.png)
+![](/Productes/P01/images/imatge9.png)
 
 ---
 
@@ -317,7 +317,7 @@ Hem creat una web en local, amb dues carpetes on ens demanava codi de docs amb i
 
 ## 4. ARQUITECTURA I DISSENY TÈCNIC
 
-![](/images/imatge10.png)
+![](/Productes/P01/images/imatge10.png)
 
 ---
 
@@ -331,23 +331,23 @@ dades.html                            Informació de protecció de dades
 
 ---
 
-![](/images/imatge11.png)
+![](/Productes/P01/images/imatge11.png)
 
 ---
 
-![](/images/imatge12.png)
+![](/Productes/P01/images/imatge12.png)
 
 ---
 
-![](/images/imatge13.png)
+![](/Productes/P01/images/imatge13.png)
 
 ---
 
-![](/images/imatge14.png)
+![](/Productes/P01/images/imatge14.png)
 
 ---
 
-![](/images/imatge15.png)
+![](/Productes/P01/images/imatge15.png)
 
 ---
 
@@ -368,11 +368,11 @@ marcjurado983.github.io/web-corporativa/
 
 ### Estadístiques (StatCounter)
 
-![](/images/imatge16.png)
+![](/Productes/P01/images/imatge16.png)
 
 ---
 
-![](/images/imatge17.png)
+![](/Productes/P01/images/imatge17.png)
 
 ---
 
@@ -598,19 +598,19 @@ T05 – Vídeos LOPD
 T07 – Solució cloud
 
 
-![](/images/imatge18.png)
+![](/Productes/P01/images/imatge18.png)
 
 ---
 
-![](/images/imatge19.png)
+![](/Productes/P01/images/imatge19.png)
 
 ### Diagrama de Gantt
 
-![](/images/imatge20.png)
+![](/Productes/P01/images/imatge20.png)
 
 ---
 
-![](/images/imatge21.png)
+![](/Productes/P01/images/imatge21.png)
 
 ---
 ### Pla de contingència
