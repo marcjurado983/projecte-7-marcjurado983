@@ -1,6 +1,6 @@
 # MEMÒRIA TÈCNICA – PROPOSTA PER A FOODLOGÍSTIC S.A.
 
-![](/images/image1.png)
+![](/images/imatge1.png)
 
 **Autors:** Marc Jurado i Martí Codony  
 **Data:** 4 de maig de 2026  
@@ -210,32 +210,32 @@ Estructura de carpetes i permisos:
 ---
 
 
-![](/images/image2.png)
+![](/images/imatge2.png)
 
 ---
 
-![](/images/image3.png)
+![](/images/imatge3.png)
 
 ---
 
-![](/images/image4.png)
+![](/images/imatge4.png)
 
 ---
 
-![](/images/image5.png)
+![](/images/imatge5.png)
 
 ---
 
 
-![](/images/image6.png)
+![](/images/imatge6.png)
 
 ---
 
-![](/images/image7.png)
+![](/images/imatge7.png)
 
 ---
 
-![](/images/image40.png)
+![](/images/imatge40.png)
 
 ### 3.1 Infraestructura (relatiu a la T01)
 
@@ -282,11 +282,11 @@ Canviar el correu antic per un de nou al núvol.
 
 Quines opcions hem mirat?
 
-![](/images/image8.png)
+![](/images/imatge8.png)
 
 ---
 
-![](/images/image9.png)
+![](/images/imatge9.png)
 
 ---
 
@@ -317,7 +317,7 @@ Hem creat una web en local, amb dues carpetes on ens demanava codi de docs amb i
 
 ## 4. ARQUITECTURA I DISSENY TÈCNIC
 
-![](/images/image10.png)
+![](/images/imatge10.png)
 
 ---
 
@@ -331,23 +331,23 @@ dades.html                            Informació de protecció de dades
 
 ---
 
-![](/images/image11.png)
+![](/images/imatge11.png)
 
 ---
 
-![](/images/image12.png)
+![](/images/imatge12.png)
 
 ---
 
-![](/images/image13.png)
+![](/images/imatge13.png)
 
 ---
 
-![](/images/image14.png)
+![](/images/imatge14.png)
 
 ---
 
-![](/images/image15.png)
+![](/images/imatge15.png)
 
 ---
 
@@ -368,11 +368,11 @@ marcjurado983.github.io/web-corporativa/
 
 ### Estadístiques (StatCounter)
 
-![](/images/image16.png)
+![](/images/imatge16.png)
 
 ---
 
-![](/images/image17.png)
+![](/images/imatge17.png)
 
 ---
 
@@ -598,19 +598,19 @@ T05 – Vídeos LOPD
 T07 – Solució cloud
 
 
-![](/images/image18.png)
+![](/images/imatge18.png)
 
 ---
 
-![](/images/image19.png)
+![](/images/imatge19.png)
 
 ### Diagrama de Gantt
 
-![](/images/image20.png)
+![](/images/imatge20.png)
 
 ---
 
-![](/images/image21.png)
+![](/images/imatge21.png)
 
 ---
 ### Pla de contingència
